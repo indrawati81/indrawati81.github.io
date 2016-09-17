@@ -1,0 +1,58 @@
+.header {
+    height: 100px;
+}
+
+.logo {
+    height: 100px;
+    background-color: #bdf73b;
+}
+ 
+/* Ini Style Buat MAin Menu */
+.mainmenu{
+    margin: 10px auto 0 auto;
+}
+.mainmenu-item li{
+    display: inline-block;
+}
+.mainmenu-item li a{
+    background-color:#bababa;
+    padding: 5px 10px 5px 10px;
+}
+.mainmenu-item li .active {
+    background-color:#000000;
+    colour:#ffffff;
+}
+
+.corousel-content {
+    height: 100px;
+    background-color: #bdf73b;
+    
+}
+
+.content {
+    margin-top: 10px;
+    
+}
+
+.sidebar {
+    height: 200px;
+    background-color: #d426e3;
+}
+
+.isi {
+    height: 300px;
+    background-color: #2929ea;
+}
+
+.footer {
+    margin: 10px
+    auto 0 auto;
+}
+.red {
+    background-color:#e81111;
+}
+
+.blue {
+    background-color: rgba(15, 15, 229,0.4);
+}
+
